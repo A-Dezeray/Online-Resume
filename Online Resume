@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Resume</title>
+    <h1>Sandra Austin</h1>
+    <h2>Coding Rockstar</h2>
+    <img src="/img/portrait-cv.png">
+    <div>
+      <h3>Relevant Experience</h3>
+      <ul>
+        <li>Software Engineer - Eddison
+          <ol>"Worked on software for autonomous vehicles.""Maintaining detailed notes."</ol>
+          </li>
+        <br>
+        <li>Marketing Agent - Musky Ads
+          <ol>"Team lead for 1 year.""Ensure client gets project delivered on time."</ol>
+        </li>
+        <br>
+        <li>Consultant - OPA
+          <ol>"Fix politcal issues within a timely manner.""Maintaining secret documents."</ol>
+        </li>
+        </ul>
+      </div>
+      <div>
+        <h3>Recent Projects</h3>
+        <ul>
+          <li>Cool Project<a href="">Space Invaders Emulator</a></li>
+          <li>Even Cooler Project<a href="">Space Invaders Emulator</a></li>
+          <li>The best project<a href="">Space Invaders Emulator</a></li>
+          </ul>
+        </div>
+  </head>
+  <body>
+  </body>
+</html>
